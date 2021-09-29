@@ -1,0 +1,30 @@
+[
+    {
+        "name": "indian",
+        "course": "B.TECH"
+    },
+    {
+        "exam": "cAt"
+    },
+    {
+        "city": "t"
+    },
+    {
+        "state": "TaMiL"
+    },
+    {
+        "maxFees": 10
+    },
+    {
+        "minPackage": 40
+    },
+    {
+        "name": "indian Institute of management",
+        "city": "bang",
+        "state": "kar",
+        "course": "pgpm",
+        "maxFees": 23.15,
+        "minPackage": 40.5,
+        "exam": "cat"
+    }
+]
